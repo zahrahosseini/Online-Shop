@@ -1,0 +1,5 @@
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

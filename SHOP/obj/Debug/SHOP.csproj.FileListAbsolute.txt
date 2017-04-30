@@ -1,0 +1,9 @@
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\SHOP\bin\SHOP.dll
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\SHOP\bin\SHOP.pdb
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\SHOP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\SHOP\obj\Debug\SHOP.dll
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\SHOP\obj\Debug\SHOP.pdb
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\SHOP\bin\ClassLibrary1.dll
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\SHOP\bin\ClassLibrary1.pdb
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\SHOP\bin\ClassLibrary2.dll
+C:\Documents and Settings\SZH\My Documents\Visual Studio 2008\Projects\SHOP\SHOP\bin\ClassLibrary2.pdb
